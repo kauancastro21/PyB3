@@ -5,8 +5,8 @@ Script capaz de realizar  busca de ativos da B3 e organizar em uma planilha do E
 - Dividendos
 Informações gerais e recomendação de compra fictícia
 
-Estou usando algumas bibliotecas em python para otimizar o processo. 
-Estou desenvolvendo interface gráfica e recursos relacionados a captura de dados com webscraping para tornar o programa mais versátil e interativo. Além da possibilidade do envio dos dados via email.
+Desenvolvido em python para captura de dados e automação de processos.
+Estou desenvolvendo interface gráfica e outros recursos de automação como a função de enviar os dados e/ou planilha para o email desejado.
 
 OS DADOS OBTIDOS PELO SCRIPT SÃO APENAS PARA FINS EDUCATIVOS. NÃO É RECOMENDAÇÃO DE INVESTIMENTOS
 
