@@ -8,3 +8,6 @@ Informações gerais e recomendação de compra fictícia
 Estou usando algumas bibliotecas em python para otimizar o processo. Pretendo utilizar webscraping para recolher mais informações e tornar o projeto mais versátil, como a possibilidade do envio das informações em formato de texto, html ou xlsx para determinado email.
 OS DADOS OBTIDOS PELO SCRIPT SÃO APENAS PARA FINS EDUCATIVOS. NÃO É RECOMENDAÇÃO DE INVESTIMENTOS.
 
+![git1](https://github.com/user-attachments/assets/fb44357e-085d-4ea5-a9d4-b49d38aad7d0)
+
+
