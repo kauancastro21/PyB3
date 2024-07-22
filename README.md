@@ -5,11 +5,15 @@ Script capaz de realizar  busca de ativos da B3 e organizar em uma planilha do E
 - Dividendos
 Informações gerais e recomendação de compra fictícia
 
-Estou usando algumas bibliotecas em python para otimizar o processo. Pretendo utilizar webscraping para recolher mais informações e tornar o projeto mais versátil, como a possibilidade do envio das informações em formato de texto, html ou xlsx para determinado email.
+Estou usando algumas bibliotecas em python para otimizar o processo. 
+Estou desenvolvendo interface gráfica e recursos relacionados a captura de dados com webscraping para tornar o programa mais versátil e interativo. Além da possibilidade do envio dos dados via email.
+
 OS DADOS OBTIDOS PELO SCRIPT SÃO APENAS PARA FINS EDUCATIVOS. NÃO É RECOMENDAÇÃO DE INVESTIMENTOS
 
 Exemplo de funcionamento do programa:
-                   A pesquisa do ativo usando a YFINANCE:
+
+
+                   A pesquisa de informações do ativo usando a YFINANCE:
                    
 ![git1](https://github.com/user-attachments/assets/fb44357e-085d-4ea5-a9d4-b49d38aad7d0)
 
