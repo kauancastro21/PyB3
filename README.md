@@ -1,12 +1,14 @@
-# Busca-de-Ativos
-Script capaz de realizar  busca de ativos da B3 e organizar em uma planilha do Excel, os seguintes dados:
+# PYB3
+Códgio capaz de realizar busca da cotações de ativos, dados fundamentalistas, cálculos RSI e enviar para planilhas do excel ou email.
+
+Seguintes dados obtidos pelo yfinance:
 - Cotação
 - Indicadores
 - Dividendos
 Informações gerais e recomendação de compra fictícia
 
 Desenvolvido em python para captura de dados e automação de processos.
-Estou desenvolvendo interface gráfica e outros recursos de automação como a função de enviar os dados e/ou planilha para o email desejado.
+Estou desenvolvendo interface gráfica em tkinter e outros recursos de automação como a função de enviar os dados e/ou planilha para o email desejado.
 
 OS DADOS OBTIDOS PELO SCRIPT SÃO APENAS PARA FINS EDUCATIVOS. NÃO É RECOMENDAÇÃO DE INVESTIMENTOS
 
